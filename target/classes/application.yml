@@ -4,7 +4,7 @@ spring:
     datasource:
         url: jdbc:mysql://localhost:3306/registration_db
         username: root
-        password: root
+        password: 
         driver-class-name: com.mysql.cj.jdbc.Driver
     jpa:
         hibernate:
@@ -14,7 +14,7 @@ spring:
         host: smtp.gmail.com
         port: 587
         username: kshreyask1@gmail.com
-        password: qynu quus ppqr kpga
+        password: 
         properties:
             mail:
                 smtp:
